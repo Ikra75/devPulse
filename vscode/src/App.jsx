@@ -2,7 +2,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 
-import Header from './sections/headerr.jsx';
+import Header from './sections/header.jsx';
 import Home from './spa/home.jsx';
 import HeroSection from './sections/hero.jsx';
 import Features from './sections/features.jsx';
@@ -14,9 +14,9 @@ import Footer from './sections/footer.jsx';
 
 import Background from './effects/background.jsx';
 
-import Pricing from './spa/Pricing.jsx';
-import Docs from './spa/Docs.jsx';
-import Blog from './spa/Blog.jsx';
+import Pricing from './spa/pricing.jsx';
+import Docs from './spa/docs.jsx';
+import Blog from './spa/blog.jsx';
 
 const HomePage = () => {
   return (
