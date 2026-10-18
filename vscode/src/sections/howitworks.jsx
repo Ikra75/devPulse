@@ -1,4 +1,4 @@
-import StepCard from "./StepCard";
+import StepCard from "./stepcard";
 
 function HowItWorks() {
   return (
