@@ -1,5 +1,5 @@
 import { Activity, Brain, Flame } from "lucide-react";
-import FeatureCard from "./FeatureCard";
+import FeatureCard from "./featurecard";
 
 function Features() {
   return (

@@ -5,7 +5,7 @@ import {
   FolderOpen
 } from "lucide-react";
 
-import StatCard from "./StatCard";
+import StatCard from "./statcard";
 
 function DashboardPreview() {
   return (
