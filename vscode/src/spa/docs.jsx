@@ -14,7 +14,7 @@ const sections = [
     ],
   },
   {
-    icon: Github,
+    icon: ExternalLink,
     title: "GitHub Integration",
     description:
       "Use GitHub-related insights to understand your development consistency.",

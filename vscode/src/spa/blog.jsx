@@ -24,7 +24,7 @@ const articles = [
     description:
       "Explore practical ways to organize your projects and showcase your development journey.",
     readTime: "6 min read",
-    icon: Github,
+    icon: Code2,
   },
 ];
 
